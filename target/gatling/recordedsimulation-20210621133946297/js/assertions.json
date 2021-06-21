@@ -1,0 +1,10 @@
+{
+  "simulation": "com.jaifar.RecordedSimulation",
+  "simulationId": "recordedsimulation",
+  "start": 1624282786297,
+  "description": "",
+  "scenarios": ["RecordedSimulation"],
+  "assertions": [
+
+  ]
+}
