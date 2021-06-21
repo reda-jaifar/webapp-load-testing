@@ -1,1 +1,5 @@
 this is a simple wepapp laod testing with gatling
+
+1. git pull
+2. mvn gatling:test
+3. open target/gatling/recordedsimulation-{replace-with-generated-date}.html
